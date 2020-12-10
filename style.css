@@ -1,0 +1,20 @@
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
+body {
+  background: url("img/Layer.jpg");
+  color: #ffffff;
+}
+ a {
+  color: #ffffff;
+}
+@font-face {
+  font-family: "Roboto";
+  src:
+    local("pt sans narrow"),
+    url("ptsansnarrow.woff") format("woff");
+}
