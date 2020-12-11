@@ -6,7 +6,7 @@
   margin: -1px;
 }
 body {
-  background: url("img/Layer.jpg");
+  background: url("img/Layer.jpg") no-repeat;
   color: #ffffff;
 }
  a {
